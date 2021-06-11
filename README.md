@@ -5,6 +5,9 @@ I'm a software engineer specialised in web database applications development for
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ronniengoda&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ronniengoda&langs_count=5&theme=tokyonight)]()
 
+#### Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/ronniengoda/count.svg)
+
 - 🔭 I’m currently working on a Fitech Project
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on fintech projects
