@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Ngoda</h1>
 <h3 align="center">A software engineer specialized in web database applications development for complex scalable web apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronniengoda&label=Profile%20views&color=0e75b6&style=flat" alt="ronniengoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronniengoda&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ronniengoda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronniengoda" alt="ronniengoda" /></a> </p>
 
