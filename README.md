@@ -8,9 +8,9 @@ I'm a software engineer specialised in web database applications development for
 #### Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/ronniengoda/count.svg)
 
-- 🔭 I’m currently working on a Fitech Project
+- 🔭 I’m currently working on a Fintech Project
 - 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on fintech projects
+- 👯 I’m looking to collaborate on Fintech projects
 - 🤔 I’m looking for help with Blockchain
 - 💬 Ask me about web database applications
 - 📫 How to reach me: ronniengoda@gmail.com
