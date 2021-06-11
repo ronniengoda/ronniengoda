@@ -10,15 +10,15 @@ Want to know how I may help your project? Check out my project portfolio and onl
 
 - 🔭 I’m currently working on [A Fintech Project](https://payherokenya.com/sps)
 
-- 🌱 I’m currently learning **AI,Machine Learning**
+- 🌱 I’m currently learning **AI, Machine Learning**
 
 - 👯 I’m looking to collaborate on [Fintech Projects](https://payherokenya.com/sps)
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://ronald.payherokenya.com/](https://ronald.payherokenya.com/)
+- 👨‍💻 All of my projects are available at [https://ronald.payherokenya.com/](https://ronald.payherokenya.com/portforlio)
 
-- 📝 I regularly write articles on [https://ronald.payherokenya.com/blog](https://ronald.payherokenya.com/blog)
+- 📝 I regularly write articles on [https://ronald.payherokenya.com/blog](https://ronald.payherokenya.com/blog-home)
 
 - 💬 Ask me about **Web database applications**
 
