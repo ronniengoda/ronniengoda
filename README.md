@@ -16,7 +16,7 @@ Want to know how I may help your project? Check out my project portfolio and onl
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://ronald.payherokenya.com/portforlio](https://ronald.payherokenya.com/portforlio)
+- 👨‍💻 All of my projects are available at [https://ronald.payherokenya.com/portfolio](https://ronald.payherokenya.com/portfolio)
 
 - 📝 I regularly write articles on [https://ronald.payherokenya.com/blog/blog-home](https://ronald.payherokenya.com/blog-home)
 
