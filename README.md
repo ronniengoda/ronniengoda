@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [A Fintech Project](https://payherokenya.com/sps)
 
-- 🌱 I’m currently learning **AI,Machine Learning**
+- 🌱 I’m currently learning **GO LANG**
 
 - 👯 I’m looking to collaborate on [Fintech Projects](https://payherokenya.com/sps)
 
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help with **GO**
 
 - 👨‍💻 All of my projects are available at [https://ronald.payherokenya.com/](https://ronald.payherokenya.com/)
 
